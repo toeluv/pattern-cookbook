@@ -19,6 +19,7 @@
         <module>behaviour/memento</module>
         <module>state</module>
         <module>flyweight</module>
+        <module>behaviour/mediator</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
